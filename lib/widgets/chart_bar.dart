@@ -5,7 +5,7 @@ class ChartBar extends StatelessWidget {
   final double speendingAmount;
   final double speendingPctOfTotal;
 
-  ChartBar(
+  const ChartBar(
     this.label,
     this.speendingAmount,
     this.speendingPctOfTotal,
